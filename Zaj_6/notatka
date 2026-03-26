@@ -1,1 +1,9 @@
+Zajęcia 6. Dokumentacja i specyfikacja wymagań
 
+Jako: Analityk danych w dziale Customer 
+
+Chcę: Regularnie wczytywać pliki tekstowe zawierające zgłoszenia z 
+      formularzy kontaktowych i przeprowadzać ich automatyczną analizę sentymentu przy użyciu wielu słowników jednocześnie\
+
+Aby:Błyskawicznie identyfikować negatywne trendy oraz nagłe zmiany nastrojów klientów, 
+    co pozwoli na szybsze zarządzanie sytuacjami kryzysowymi i ochronę wizerunku firmy.
