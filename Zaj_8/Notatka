@@ -1,1 +1,10 @@
+Zajęcia 8.
+Narzędzia odtwarzalne:
 
+Język R (RStudio): Pisanie skryptów, które można uruchomić ponownie w dowolnym momencie z takimi samymi danymi.
+
+VBA (Visual Basic for Applications): Makra automatyzujące zadania w Excelu, co eliminuje błędy "ręcznego klikania".
+
+Formuły Excela (np. XLOOKUP, SUMIFS): Zamiast ręcznie szukać danych, formuła tworzy powtarzalny proces, który aktualizuje się przy zmianie danych wejściowych.
+
+Markdown: Formaty, w których zapisujemy kod i instrukcje, pozwalające na łatwe dzielenie się wiedzą z innymi i tworzenie przejrzystej dokumentacji 
