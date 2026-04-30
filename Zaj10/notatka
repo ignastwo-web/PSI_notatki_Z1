@@ -1,0 +1,7 @@
+Zajęcia 10. Metodyki Agile i Waterfall_cz2
+
+DO ZROBIENIA (To Do)	                       W TRAKCIE (Doing)	                      DO TESTÓW / OCENY	GOTOWE (Done)
+4. Budowa modelu LDA (LDA model training)	   3. Eksploracyjna analiza danych (EDA)		0. Import bibliotek i konfiguracja środowiska
+5. Wybór optymalnej liczby tematów (k)			                                          1. Wczytanie danych z pliku CSV
+6. Wizualizacja i interpretacja wyników			                                          2. Preprocessing tekstu (czyszczenie, tokenizacja)
+7. Dokumentacja i raport końcowy			
