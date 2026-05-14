@@ -1,9 +1,15 @@
-Klastrowanie k-means: Algorytm zyskuje, bo TF-IDF wycisza powszechny szum, a wzmacnia unikalne słowa kluczowe. Klastry dokumentów stają się dużo bardziej wyraziste i sensowne tematycznie.
+Gdzie TF-IDF poprawia wyniki?
 
-Asocjacje: Dzięki TF-IDF algorytm skupia się na współwystępowaniu istotnych merytorycznie pojęć, ignorując fałszywe powiązania między popularnymi, ale mało znaczącymi słowami (stopwords).
+Klastrowanie k-means: Algorytm zyskuje, bo TF-IDF wycisza powszechny szum,
+a wzmacnia unikalne słowa kluczowe. Klastry dokumentów stają się dużo bardziej wyraziste i sensowne tematycznie.
+
+Asocjacje: Dzięki TF-IDF algorytm skupia się na współwystępowaniu istotnych merytorycznie pojęć,
+ignorując fałszywe powiązania między popularnymi, ale mało znaczącymi słowami (stopwords).
 
 Gdzie TF-IDF psuje wyniki?
 
-Topic Modeling (LDA): Klasyczne LDA wymaga macierzy BoW z liczbami całkowitymi (surowe zliczenia wystąpień). Wprowadzenie wartości ciągłych/ułamkowych z TF-IDF po prostu łamie matematyczne założenia tego algorytmu.
+Topic Modeling (LDA): Klasyczne LDA wymaga macierzy BoW z liczbami całkowitymi (surowe zliczenia wystąpień).
+Wprowadzenie wartości ciągłych/ułamkowych z TF-IDF po prostu łamie matematyczne założenia tego algorytmu.
 
-Analiza sentymentu (słownikowa): Słowa wyrażające emocje (np. "dobry", "zły") siłą rzeczy występują w niemal każdym tekście. Ponieważ TF-IDF obniża wagi słów pospolitych, algorytm zatarłby (wyzerował) najważniejsze słowa potrzebne do oceny sentymentu.
+Analiza sentymentu (słownikowa): Słowa wyrażające emocje (np. "dobry", "zły") siłą rzeczy występują w niemal każdym tekście.
+Ponieważ TF-IDF obniża wagi słów pospolitych, algorytm zatarłby (wyzerował) najważniejsze słowa potrzebne do oceny sentymentu.
