@@ -1,0 +1,7 @@
+Metryki Oceny Modelu Klasyfikacji
+Najważniejsze metryki oceny modelu klasyfikacji:
+  - Accuracy: Określa, jak duży odsetek wszystkich prognoz modelu był poprawny. 
+  - Precision: Odpowiada na pytanie, jak duża część obiektów wskazanych przez model jako pozytywne, rzeczywiście nimi jest. 
+  - Recall: Odpowiada na pytanie, jaką część wszystkich rzeczywistych obiektów z klasy pozytywnej model zdołał poprawnie wykryć. 
+  - F1 Score: Średnia harmoniczna precyzji i czułości. Najlepsza ogólna metryka w przypadku pracy z niezbalansowanymi zbiorami danych.
+  - AUC-ROC: Mierzy zdolność modelu do odróżniania klas pozytywnych od negatywnych w całym zakresie progów decyzyjnych. Wartość 1.0 to ideał, 0.5 to losowość.
